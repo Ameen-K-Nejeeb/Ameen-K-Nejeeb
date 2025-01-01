@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on freelancing Digital Donation Platform<br>🌱 I’m currently learning Frameworks: Django, React, and TensorFlow ...<br>🤝 I’m looking for help with Advanced Django implementations or ML model optimization<br>👯 I’m looking to collaborate on Machine Learning projects or Python-based applications<br>💬 Ask me about Python development, Machine Learning basics, Django projects, or Web design using HTML/CSS.<br>👨‍💻 All of my projects are available at https://dudeamee.github.io/portfolio/<br>📫 How to reach me ameenameen8701@gmail.com<br>⚡ Fun fact I think learning Machine Learning feels like teaching computers to think!
+🔭 I’m currently working on freelancing,<br>🌱 I’m currently learning Frameworks: Django, React, and TensorFlow ...<br>🤝 I’m looking for help with Advanced Django implementations or ML model optimization<br>👯 I’m looking to collaborate on Machine Learning projects or Python-based applications<br>💬 Ask me about Python development, Machine Learning basics, Django projects, or Web design using HTML/CSS.<br>👨‍💻 All of my projects are available at https://dudeamee.github.io/portfolio/<br>📫 How to reach me ameenameen8701@gmail.com<br>⚡ Fun fact I think learning Machine Learning feels like teaching computers to think!
 
 
 ## 🌐 Socials:
